@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="btn_caption">Run AsyncTask</string>
+    <string name="task_running">Task is already running</string>
+    <string name="task_started">Task started</string>
+    <string name="task_finished">Task finished</string>
+    <string name="result_caption">Result is %d</string>
+    <string name="result_caption_calculating">Result is calculating...</string>
+    <string name="btn_caption_run_service">Run service</string>
+    <string name="btn_caption_stop_service">Stop service</string>
+    <string name="btn_caption_run_single_task">Run Service Method</string>
+    <string name="service_method_called">Service method is called</string>
 </resources>
