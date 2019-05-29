@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="btn_caption">Запустить AsyncTask</string>
+    <string name="task_running">Задача уже запущена</string>
+    <string name="task_started">Задача запущена</string>
+    <string name="task_finished">Задача завершена</string>
+    <string name="result_caption">Результат %d</string>
+    <string name="result_caption_calculating">Вычисление результата...</string>
+    <string name="btn_caption_run_service">Запустить службу</string>
+    <string name="btn_caption_stop_service">Остановить службу</string>
+    <string name="btn_caption_run_single_task">Запустить метод службы</string>
+    <string name="service_method_called">Вызван метод службы</string>
+</resources>
